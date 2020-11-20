@@ -1,0 +1,2 @@
+[1120/104243.996:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+[1120/105934.604:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\psyence2\AppData\Local\Temp\scoped_dir12116_522954098\Crashpad\attachments\d09fc0de-a8ad-44d9-921e-022c170f5e21: 지정된 경로를 찾을 수 없습니다. (0x3)

@@ -23,7 +23,7 @@ for i in range(len(txt_data)):
         sents.append(sent)
         sent = ''
     #time.sleep(0.5)
-len(sents)
+sents.append(sent)
 i = 0
 for sent in sents:
     i += 1
@@ -38,6 +38,7 @@ for sent in sents:
         f.write(result+'\n')
     f.close()
 driver.quit()
+
 #
 # if __name__ == '__main__':
 #     parser = argparse.ArgumentParser()
